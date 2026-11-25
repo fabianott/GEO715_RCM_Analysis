@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+geopandas
+shapely>=2.0
+rasterio
+adjustText
+jupyter

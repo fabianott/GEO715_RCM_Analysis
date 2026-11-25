@@ -1,0 +1,14 @@
+# Large rasters: not in git, copy them into data/raw/ (see README)
+*.tif
+*.tiff
+*.tif.aux.xml
+*.tiff.aux.xml
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
